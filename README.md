@@ -5,6 +5,8 @@ VerticalPickerWidget is a animated picker , ease to use
 
 ## Example
 
+![example for VerticalPickerWidget](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
+
 example of using ResponsiveBuilder
 
 ```dart
