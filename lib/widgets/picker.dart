@@ -28,6 +28,7 @@ class VerticalPickerWidget extends StatefulWidget {
 class _VerticalPickerWidgetState extends State<VerticalPickerWidget>
     with SingleTickerProviderStateMixin {
   late AnimationController _controller;
+  // ignore: unused_field
   late Animation<double> _opacity;
   late Animation<double> _width;
 

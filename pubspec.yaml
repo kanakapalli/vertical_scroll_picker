@@ -1,7 +1,7 @@
 name: vertical_scroll_picker
-description: A new Flutter package project.
-version: 0.0.1
-# homepage:
+description: VerticalPickerWidget is a animated picker , ease to use
+version: 1.0.0
+homepage: https://github.com/kanakapalli/vertical_scroll_picker
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
